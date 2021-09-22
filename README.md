@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-**dassimanuel000/dassimanuel000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 <p align='center'>I am a Software Engineer focused on Web💙 and Mobile💛. <img src="https://gpvc.arturio.dev/jideguru" /></p>

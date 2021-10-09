@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋                ⚡       https://ceo.life-cm.com/       ⚡
 
 Here are some ideas to get you started:
 
@@ -35,3 +35,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Art
 
 
+<img src="cv.png" /> 

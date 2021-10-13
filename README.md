@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Art
 
 
-<img src="cv.png" /> 
+<img src="portfolio.png" /> 

@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 
 - 🔭 I’m currently working on Paris
-- 🌱 I’m currently learning Estiam
+- 🌱 I’m currently study at Estiam
 - 👯 I’m looking to collaborate on Goow, Unity Life-cm
 - 🤔 I’m looking for help with App development 
 - 💬 Ask me about ;)

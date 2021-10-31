@@ -1,4 +1,4 @@
-### Hi there 👋                ⚡       https://ceo.life-cm.com/       ⚡
+### Hi there 👋                ⚡       <a href=" https://ceo.life-cm.com/" target="_blank"> https://ceo.life-cm.com/ </a>      ⚡
 
 Here are some ideas to get you started:
 

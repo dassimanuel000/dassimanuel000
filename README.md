@@ -120,19 +120,11 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 </details>
 
 <!-- https://github.com/sisodiya2421 -->
-## 🙋‍♀️ Let's Connect
-<p align="center">
-	<a href="https://dassimanuel000.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
-	<a href="https://github.com/dassimanuel000" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/dassimanuel000/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/dassimanuel000/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/dassimanuel000/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="mailto:dassi.manuel000@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-</p>
+## 🙋‍♀️ Let's Current me
 
 - 🔭 I’m currently working on Paris
 - 🌱 I’m currently study at Estiam
-- 👯 I’m looking to collaborate on Goow, Unity Life-cm
+- 👯 I’m looking to collaborate on Goow, Unity ERP, Life-cm, StudentPop
 - 🤔 I’m looking for help with App development 
 - 💬 Ask me about ;)
 - 📫 How to reach me: ...

@@ -60,7 +60,6 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 ### 🧰 Frameworks and libraries
 
 <p>
-  
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Wordpress-21759B?logo=flutter&logoColor=white"></a>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>

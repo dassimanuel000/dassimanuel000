@@ -118,7 +118,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 </details>
 
 <!-- https://github.com/dassimanuel000 -->
-## 🙋‍♀️ Let's Current me <img width="700" height="25" src="https://profile-counter.glitch.me/dassimanuel000/count.svg" />
+## 🙋‍♀️ Let's Current me <img width="200" height="25" src="https://profile-counter.glitch.me/dassimanuel000/count.svg" />
 
 - 🔭 I’m currently working on Paris
 - 🌱 I’m currently study at Estiam

@@ -117,7 +117,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-   <a href="https://github.com/dassimanuel000/dassimanuel000"><img alt="dassimanuel000 Activity Graph" src="h4ttps://activity-graph.herokuapp.com/graph?username=dassimanuel000&custom_title=dassimanuel000's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/dassimanuel000/dassimanuel000"><img alt="dassimanuel000 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dassimanuel000&custom_title=dassimanuel000's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
 </details>
 
@@ -134,4 +134,4 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 - ⚡ Fun fact: Art
 
 
-<img src="portfolio.png" /> 
+<img src="portfolio" /> 

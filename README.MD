@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 <p align='center'>I am a Software Engineer focused on Web💙 and Mobile💛. <img src="https://gpvc.arturio.dev/jideguru" /></p>
 
 <p align='center'>
-<a href="https://twitter.com/flutter">
+<a href="#">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/manuel-dassi-a43bbb195/">

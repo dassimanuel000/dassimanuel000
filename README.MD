@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-<p align='center'>I am a Software Engineer focused on Web💙 and Mobile💛. <img src="https://gpvc.arturio.dev/jideguru" /></p>
+<p align='center'>I am a Software Engineer focused on Cloud💙 and Fullstack💛. <img src="https://gpvc.arturio.dev/jideguru" /></p>
 
 <p align='center'>
 <a href="#">

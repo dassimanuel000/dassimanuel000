@@ -40,7 +40,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
 
-![dassimanuel000 Stats](https://github-readme-stats.vercel.app/api?username=dassimanuel000&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&rank_icon=percentile&include_all_commits=true&cache_seconds=30000)
+![dassimanuel000's Stats](https://github-readme-stats.vercel.app/api?username=dassimanuel000&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&rank_icon=percentile&include_all_commits=true&cache_seconds=30000)
 
 
 ## 🛠️ My favorite tools
